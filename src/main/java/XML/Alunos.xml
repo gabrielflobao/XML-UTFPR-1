@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<lista_alunos>
+    <aluno id="1" nome="Alexandre " ra="a1020129 1029"/>
+    <aluno id="2" nome="Flavia " ra="RA06978">
+        <disciplinas>
+            <disciplina>
+                <codigo>1</codigo>
+                <nome>Sistemas Operacionais</nome>
+            </disciplina>
+            <disciplina>
+                <codigo>2</codigo>
+                <nome>Redes de computadores</nome>
+            </disciplina>
+            <disciplina>
+                <codigo>3</codigo>
+                <nome>Programacao OO</nome>
+            </disciplina>
+            <disciplina>
+                <codigo>4</codigo>
+                <nome>Java X</nome>
+            </disciplina>
+        </disciplinas>
+    </aluno>
+    <aluno id="3" nome="Maria " ra="RA72411">
+        <disciplinas>
+            <disciplina>
+                <codigo>5</codigo>
+                <nome>Topicos em CC</nome>
+            </disciplina>
+        </disciplinas>
+    </aluno>
+    <aluno id="4" nome="Luana " ra="RA43270">
+        <disciplinas>
+            <disciplina>
+                <codigo>6</codigo>
+                <nome>Processo de Sw</nome>
+            </disciplina>
+            <disciplina>
+                <codigo>7</codigo>
+                <nome>Qualidade de Sw</nome>
+            </disciplina>
+            <disciplina>
+                <codigo>2</codigo>
+                <nome>Redes de computadores</nome>
+            </disciplina>
+            <disciplina>
+                <codigo>8</codigo>
+                <nome>Algoritmos</nome>
+            </disciplina>
+            <disciplina>
+                <codigo>9</codigo>
+                <nome>Estrutura de dados</nome>
+            </disciplina>
+        </disciplinas>
+    </aluno>
+    <aluno id="5" nome="Pedro " ra="RA63727">
+        <disciplinas>
+            <disciplina>
+                <codigo>10</codigo>
+                <nome>Banco de dados 1</nome>
+            </disciplina>
+            <disciplina>
+                <codigo>11</codigo>
+                <nome>Banco de dados 2</nome>
+            </disciplina>
+            <disciplina>
+                <codigo>12</codigo>
+                <nome>Analise de algoritmos</nome>
+            </disciplina>
+            <disciplina>
+                <codigo>13</codigo>
+                <nome>Teoria da computacao</nome>
+            </disciplina>
+        </disciplinas>
+    </aluno>
+</lista_alunos>
